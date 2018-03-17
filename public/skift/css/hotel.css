@@ -1,0 +1,255 @@
+body{
+
+	
+}
+
+.clear{
+
+	clear:both;
+}
+.fix{
+   margin-left: 0px;
+   margin-right: 0px;
+
+
+}
+.nav1{
+	background: #fff200 no-repeat fixed center;
+
+}
+.nav1 ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	margin-left: 80px;
+	
+}
+
+.nav1 ul li {
+
+	padding:5px;
+	padding-left:10px;
+
+}
+
+
+
+.nav1 ul li a{
+	color:#252525 ! important;
+	background:  #fff200;
+	font-size: 14px;
+	text-decoration: none;
+
+
+}
+.nav1 ul li a:hover{
+	margin-left:6px;
+	color: #002943 ! important;
+}
+.dropdown-menu{
+
+	background: #fff200 !important;
+
+
+}
+
+.dropdown-menu li:hover{
+
+	
+
+}
+.hotel{
+
+	font-size: 48px;
+	font-weight: bold;
+	margin-left: 30px;
+}
+.image_float{
+    
+  margin-top: 30px;
+  
+	
+}
+
+.image_float ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	float:left;
+	
+	
+	
+}
+
+.image_float ul li {
+
+	padding:5px;
+	width: 458px;
+	
+
+
+
+}
+
+
+
+.image_float ul li a{
+	
+	text-decoration: none;
+
+
+
+
+}
+
+.footer{
+   
+   background: #202020;
+   margin-top: 20px;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   padding-left: 40px;
+
+}
+
+.footer_corporate{
+
+	width: 250px;
+	height: 220px;
+	background: #58585a;
+}
+
+.footer_corporate h4{
+	margin-top: 20px;
+	color: #ffffff;
+	font-weight: bold;
+
+}
+
+.footer_corporate ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	
+	
+}
+
+.footer_corporate ul li {
+
+	padding:5px;
+	
+
+}
+
+
+
+.footer_corporate ul li a{
+	color:#fff4d5 ! important;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+.footer_corporate ul li a:hover{
+	margin-left:6px;
+	color: #fff200! important;
+}
+
+.footer_icon h4{
+
+	margin-top: 20px;
+	margin-left:60px;
+	color: #ffffff;
+	font-weight: bold;
+
+
+
+
+}
+
+.footer_icon ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	
+	
+}
+
+.footer_icon ul li {
+
+	padding:3px;
+	margin-left:35px;
+
+}
+
+
+
+.footer_icon ul li a{
+	color:#fff4d5 ! important;
+
+	
+	text-decoration: none;
+	
+
+
+}
+.footer_icon ul li a:hover{
+	margin-left:6px;
+	color: #fff200! important;
+	background: #202020;
+}
+
+.footer_link h4{
+
+	margin-top: 20px;
+	margin-left:49px;
+	color: #ffffff;
+	font-weight: bold;
+
+
+
+
+}
+
+.footer_link ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	
+	
+}
+
+.footer_link ul li {
+
+	padding:3px;
+	margin-left:45px;
+
+}
+
+
+
+.footer_link ul li a{
+	color:#ffffff ! important;
+
+	
+	text-decoration: none;
+	
+
+
+}
+.footer_link ul li a:hover{
+	margin-left:4px;
+	color: #fff200! important;
+	background: #202020;
+}
+
+.icon{
+
+	color: #fff;
+}

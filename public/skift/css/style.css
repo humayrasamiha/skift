@@ -1,0 +1,156 @@
+.clear{
+
+	clear:both;
+}
+.fix{
+   margin-left: 0px;
+   margin-right: 0px;
+
+
+}
+.nav1{
+	background: #fff200 no-repeat fixed center;
+
+}
+.nav1 ul{
+
+	padding:0px;
+	margin:0px;
+	list-style: none;
+	margin-left: 80px;
+	
+}
+
+.nav1 ul li {
+
+	padding:5px;
+	padding-left:10px;
+
+}
+
+
+
+.nav1 ul li a{
+	color:#252525 ! important;
+	background:  #fff200;
+	font-size: 14px;
+	text-decoration: none;
+
+
+}
+.nav1 ul li a:hover{
+	margin-left:6px;
+	color: #002943 ! important;
+}
+.dropdown-menu{
+
+	background: #fff200 !important;
+
+
+}
+
+.dropdown-menu li:hover{
+
+	
+
+}
+
+.skift_email{
+
+	background: #4c6c6f;
+
+
+}
+.skift_size{
+
+	max-width: 1200px;
+	width: 100%;
+	margin:0px auto;
+}
+.skift_text p{
+	color: #fff1e4;
+
+
+}
+.btn-default{
+	color: #333;
+    background-color: #fff;
+}
+.btn{
+
+	padding: 6px 12px;
+	border: 0px solid transparent;
+	margin-top: 10px;
+}
+.dropdown-menu {
+    background: #fff !important;
+}
+.dropdown-menu ul li a:hover{
+
+	background: #4c6c6f;
+}
+
+.skift_offer{
+   
+    max-width: 1200px;
+	width: 100%;
+	margin:0px auto;
+
+}
+.skift_offer h1{
+
+	color: #000000;
+	font-weight: bolder;
+	font-size: 45px;
+}
+.skift_content{
+	max-width: 1200px;
+	width: 100%;
+	margin:0px auto;
+}
+.skift_content h1{
+
+	color: #000000;
+	font-weight: bolder;
+	font-size: 45px;
+}
+.skift_x img{
+    margin-top: 30px;
+	width: 450px;
+	height: 250px;
+}
+.skift_x2 h2{
+
+   color: #000017;
+
+}
+.skift_x2 p{
+
+   color: #636372;
+   
+}
+.btn3{
+	padding: 10px 25px;
+	background: #fff200;
+	border: none;
+	color: #000000;
+}
+.btn3:hover{
+	background: 
+}
+.skift_inside{
+	max-width: 1200px;
+	width: 100%;
+	margin:0px auto;
+}
+.skift_inside h5{
+
+	color: #000000;
+	font-weight: bolder;
+	
+}
+.skift_img img{
+    margin-top: 30px;
+	width: 450px;
+	height: 250px;
+}
